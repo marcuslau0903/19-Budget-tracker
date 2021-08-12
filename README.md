@@ -1,25 +1,21 @@
 # 19 - Budget-Tracker
 
 ## Description
-
-The Budget Tracker powered by back-end Express server,
-
-Our task was to add functionality to our existing Budget Tracker application to allow for offline access and functionality. So and AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling.
-
-
+ This weeks assignment is to refactor the code and to add an off-line feature to the exsisting Budget Tracker so it allows users to input withdrawel/deposit to the Application without internet connection - User input will be shown on the transaction history once connection is back online. 
+ 
 ## Usage
 
  The application allow users to:
  
- * Add / Minus Funds to exsisting list.
- * Calculate total expenditure.
+ * Enter transactions offline.
+ * Populate total expenditure.
  * Monitor expenses from a graph that plots the dates overtime.
 
 ## Installation 
 
 - Clone repository to your local machine.
 - Input `npm i` to install node packages [Express,Mongoose,Morgan,NodeMon,Lite-Server] for the Application.
-- Input 'npm run start'.
+- Input `npm run start` to run the Application.
 
 ## Link to deployed Application on Heroku
  [Click Here](https://budget-tracker-marcus.herokuapp.com/)
