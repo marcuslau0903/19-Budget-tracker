@@ -28,5 +28,4 @@ Our task was to add functionality to our existing Budget Tracker application to 
 [Click Here](https://github.com/marcuslau0903/19-Budget-tracker)
 
 ## ScreenShots for the Budget-Tracker
-![screenshot1]
-![screenshot2]
+![screenshot1](./src/images/screenshot.PNG)
