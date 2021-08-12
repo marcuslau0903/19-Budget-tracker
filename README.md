@@ -1,4 +1,4 @@
-# 19-Budget-tracker
+# 19-Budget-Tracker
 
 
 ## Description
@@ -9,4 +9,4 @@
 
 ## Link to Github repository
 
-## ScreenShots for the fitness tracker
+## ScreenShots for the Budget-Tracker
