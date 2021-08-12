@@ -1,7 +1,7 @@
 # 19 - Budget-Tracker
 
 ## Description
- This weeks assignment is to refactor code and to add an off-line feature to the Budget Tracker, which allows users to input withdrawel/deposit to the Application without internet connection.
+ This weeks assignment is to refactor code and to add an off-line feature to the Budget Tracker, which allows users to input withdrawel/deposit to the Application without internet connection - input will be added to transaction history when their connection is back online.
  
 ## Usage
 
