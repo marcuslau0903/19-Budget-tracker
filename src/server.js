@@ -20,7 +20,7 @@ mongoose.connect(MONGODB_URI, {
 app.use(require("./routes/api.js"));
 const init = async () => {
   app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
+    console.log(`Server running on ${PORT}`);
   });
 };
 init();
